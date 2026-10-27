@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files (Jangan upload binary 74MB ke commit git, upload ke GitHub Releases)
+build/
+dist/
+*.spec
+
+# User local settings & dumps
+*.json
+*.png
+*.jpg
+*.log
+.vscode/
+.idea/
